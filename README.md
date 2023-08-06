@@ -1,24 +1,9 @@
 # Usando o Git como linha de comando:
 
-1: Para começar a usar o Git, primeiro vamos abrir nosso shell de comando (Prompt de Comando).
-No meu caso que estou usando o sistema windows, irei Git bash. Que vem incluído no Git para Windows.
+Para Windows, você podemos usar o Git bash, que vem incluído no Git para Windows, que é o meu caso.
 
-2: Verificando se o Git esta instalado corretamente.
-![Alt text](image.jpg)
-![Texto alternativo](image.jpg)
-![image](https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/b3259c9e-b476-4736-b1bd-1d932f7c76e2)
+1: A primeira coisa que precisamos fazer é verificar se o Git está instalado corretamente:
 
+2: Através do Prompt de Comando (cmd), podemos conferir com o comando "git --version"
+https://user-images.githubusercontent.com/110369271/258671184-3878facd-3bbd-4f45-8ace-060ec5f26c8b.png
 
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-obs: no meu caso, não havia o git instalado no meu computador, então foi necessário a instalação através do link para instalação em sistema windows: https://git-scm.com/downloads
-
-# Configurando o Git:
-
-adicionando meu nome de usuário:
-
-Para adionar o nome de usuáio, usamos o comando:
-![Alt text](image-3.png)
