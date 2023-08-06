@@ -4,8 +4,9 @@
 No meu caso que estou usando o sistema windows, irei Git bash. Que vem incluído no Git para Windows.
 
 2: Verificando se o Git esta instalado corretamente.
-![Alt text](image.png)
-![Texto alternativo](image.png)
+![Alt text](image.jpg)
+![Texto alternativo](image.jpg)
+![image](https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/b3259c9e-b476-4736-b1bd-1d932f7c76e2)
 
 
 
