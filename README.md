@@ -5,11 +5,9 @@ No meu caso que estou usando o sistema windows, irei Git bash. Que vem incluído
 
 2: Verificando se o Git esta instalado corretamente.
 ![Alt text](image.png)
-![Texto alternativo](caminho/da/imagem.jpg)
-!C:\Users\Inteli\Documents\M5 atv programacao\relatoriotecnico2\image.png
-![Texto alternativo](C:\Users\Inteli\Documents\M5 atv programacao\relatoriotecnico2\image.png)
-![Texto alternativo](Users\Inteli\Documents\M5 atv programacao\relatoriotecnico2\image.png)
-![Texto alternativo](\Users\Inteli\Documents\M5 atv programacao\relatoriotecnico2\image.png)
+![Texto alternativo](image.png)
+
+
 
 ![Alt text](image-1.png)
 
