@@ -4,7 +4,7 @@ Para Windows, você podemos usar o Git bash, que vem incluído no Git para Windo
 
 1: A primeira coisa que precisamos fazer é verificar se o Git está instalado corretamente:
 
-2: Através do Prompt de Comando (cmd), podemos conferir com o comando "git --version"
+2: Através do Prompt de Comando (cmd), podemos conferir com o comando "git --version".
 
 abra o Prompt de Comando no seu notebook:
 ![image](https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/3878facd-3bbd-4f45-8ace-060ec5f26c8b)
