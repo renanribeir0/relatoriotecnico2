@@ -96,10 +96,38 @@ Vamos tentar fazer algumas alterações em nosso git local e enviá-las para o G
 atualizações feitas no vscode e irei eviar para o github através dos comandos: git commit -m "comentario" e git push origin
 <img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/7c96fc56-df69-4dc2-b178-21b03ecebffc">
 
+assim ficou:
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/d8834be0-5152-4f13-b2af-b09c87636e62">
 
 
 
+# Ramificação do Git GitHub
+No GitHub, acesse seu repositório e clique no botão branch "mestre".
 
+Lá você pode criar uma nova Filial. Digite um nome descritivo e clique em Criar ramificação:
+
+Clicando em main e main default
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/83af280f-ac4d-4c9f-939a-f25a1a4e1b69">
+
+Selecione uma das ramificações:
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/809111b6-c079-4d06-a1d7-37453a18724d">
+
+assim voce poderá editar, verificar ultimas atualizacoes e comiitar:
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/4771e714-08b6-4f05-b587-303c342a350a">
+
+
+# Ramificação do Git Push para o GitHub
+Enviar uma ramificação para o GitHub
+Criando uma nova ramificação local e enviá-la para o GitHub.
+
+Comece criando um branch, como fizemos anteriormente, usando o comando: git checkout -b update-readme
+
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/5a3e6ca9-eb32-46ef-9fe9-5e583a74ecd6">
+
+Verifica o status novamento usando o comando: git status
+<img width="960" alt="image" src="https://github.com/renanribeir0/relatoriotecnico2/assets/110369271/2c1e3970-acc9-4c5e-85b1-7200caf7dd54">
+
+Vemos que README.mdfoi modificado, mas não adicionado ao Staging Environment:
 
 
 
